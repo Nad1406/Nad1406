@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm curently a freshman at VNUK.
+I'm curently a freshman VN-UK Institute for Research and Executive Education, the University of Danang.
 
 
 # 💻 Tech Stack:
