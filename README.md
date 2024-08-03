@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a freshman VN-UK Institute for Research and Executive Education, the University of Danang.<br>🌱 I’m currently learning HTML, CSS, JS, REACT, NODE.JS.<br>🍃How to reach me oneone2683@gmail.com<br>⚡ Fun fact my real name is Dũng
+🔭Currently a freshman at VN-UK Institute for Research and Executive Education, the University of Danang.<br>😁Studied Software Engineering.<br>🌱Currently learning about web development.<br>🍃How to reach me oneone2683@gmail.com<br>⚡ Fun fact my real name is Dũng
 
 
 ## 🌐 Socials:
