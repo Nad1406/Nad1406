@@ -1,7 +1,9 @@
+![2B](https://github.com/user-attachments/assets/95733ce7-385e-4264-8144-389cc10aa7f7)
 # 💫 About Me:
 🔭Currently a freshman at VN-UK Institute for Research and Executive Education, the University of Danang.<br>😁Studied Software Engineering.<br>🌱Currently learning about web development.<br>🍃How to reach me oneone2683@gmail.com<br>⚡ Fun fact my real name is Dũng
+![Gifff - GIF 1](https://github.com/user-attachments/assets/01d5423e-8ed9-4cdd-a5bf-dab335079fee)
 
-![Gifff - GIF 1](https://github.com/user-attachments/assets/e2f7c6c5-a396-4da5-bbb0-cdba190326d9)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taolai.nguyen.75) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gnudjsjwjsnjddf) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/JustFuckingNad) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gau1gs7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NguyenDung_1406) 
