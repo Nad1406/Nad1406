@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm curently a freshman VN-UK Institute for Research and Executive Education, the University of Danang.
-
+<img align="right" alt="Coding" width="400" src="https://x.com/i/status/1810686367992590645">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taolai.nguyen.75) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gnudjsjwjsnjddf) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/JustFuckingNad) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/gau1gs7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NguyenDung_1406) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOD3v-09UhJe54QoEvgIIiw) 
