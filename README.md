@@ -20,5 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nad1406&icon=2&color=1)](https://visitcount.itsvg.in)
+![nier2B-min](https://github.com/user-attachments/assets/4087a153-0cd5-4eab-807d-5bb7e4193fd4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
