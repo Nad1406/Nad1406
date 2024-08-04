@@ -1,8 +1,9 @@
 ![2B](https://github.com/user-attachments/assets/95733ce7-385e-4264-8144-389cc10aa7f7)
 # 💫 About Me:
-🔭Currently a freshman at VN-UK Institute for Research and Executive Education, the University of Danang.<br>😁Studied Software Engineering.<br>🌱Currently learning about web development.<br>🍃How to reach me oneone2683@gmail.com<br>⚡ Fun fact my real name is Dũng
+🔭Currently a freshman at VN-UK Institute for Research and Executive Education, the University of Danang, Vietnam.<br>😁Studied Software Engineering.<br>🌱Currently learning about web development.<br>🍃How to reach me oneone2683@gmail.com<br>⚡ Fun fact my real name is Dũng
 
 ![Gifff - GIF 1](https://github.com/user-attachments/assets/01d5423e-8ed9-4cdd-a5bf-dab335079fee)          ![animegif](https://github.com/user-attachments/assets/6728546c-4463-4268-8c66-e12506c2da58)
+![aF](https://github.com/user-attachments/assets/d259cf89-dea1-4cf0-88c9-4bc1304e94dd)
 
 
 
