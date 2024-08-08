@@ -15,9 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nad1406&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nad1406&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Nad1406&icon=2&color=1)](https://visitcount.itsvg.in)
 ![nier2B-min](https://github.com/user-attachments/assets/4087a153-0cd5-4eab-807d-5bb7e4193fd4)
