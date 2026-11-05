@@ -1,66 +1,123 @@
-<img src="./header.svg" width="100%" alt="Nad1406 Header Banner">
-
 <div align="center">
 
-<!-- HIỆU ỨNG GÕ CHỮ ĐỘNG (TYPING SVG) -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=680&lines=%3E_+init_system(%22Nad1406+%2F%2F+Nguyen+Anh+Dung%22);%3E_+Future_King_of_Vibe-Coding...;%3E_+Software_Architecture_x_AI_Mastery;%3E_+Dev_by_Day_%7C_High-Leverage_Trader_by_Night" alt="Typing SVG" />
-</a>
-
-</div>
-
-```text
-⠀⠀⠀⣸⠋⠛⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠞⠋⢻⡀⠀⠀⠀
-⠀⠀⠀⡟⠂⠀⠀⠈⠳⠶⠖⠒⠒⠒⠒⠶⠋⠁⠀⠀⠘⡇⠀⠀⠀   oneone2683@gmail.com // Nguyễn Anh Dũng
-⠀⠀⢰⡇⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡄⠀⠀⢷⠀⠀⠀   ──────────────────────────────────────────────────────────
-⠀⠀⢸⡇⠀⠈⠳⢦⡀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⣾⠀⠀⠀   [01] BIO      :: 14/06/2006 (v20.0) // Da Nang, Vietnam
-⠀⠀⣼⠗⠀⣴⣾⣟⣿⠓⠀⠀⠀⠀⠐⣿⣿⣳⣦⠀⠀⢹⡄⠀⠀   [02] EDU      :: Y3 Computer Science (SE) @ VN-UK
-⠀⢸⡏⠀⠀⠙⠛⠟⠋⠀⠀⠀⠀⠀⠀⠈⠛⠛⠃⠀⠀⠈⢿⡀⠀   [03] STATUS   :: Student & Unemployed (Full-Time Builder)
-⠀⡿⠁⠀⠀⠀⠀⠀⢧⣀⣀⣠⣴⣤⣀⣀⣿⠀⠀⠀⠀⠀⠸⡇⠀   [04] STACK    :: Web/App Dev & AI-Driven Vibe-Coding
-⠀⣧⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠿⣿⣿⠏⠀⠀⠀⠀⠀⠀⢠⡇⠀   [05] AMBITION :: King of Vibe-Coding & Crypto/Forex Dev
-⠀⠘⣇⠀⠀⠀⠀⠀⠀⠀⣹⡛⠀⢸⡏⠀⠀⠀⠀⠀⠀⢀⡾⠅⠀   [06] HOBBIES  :: Valorant, Max-Leverage Trading & Thịt Chó
-⠀⠀⢙⡷⠀⠀⠀⠀⠀⠋⠻⣿⣴⡾⠁⠀⠀⠀⠀⠀⠀⢻⡄⠀⠀
-⠀⠀⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠀⠀
-⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣇⠀
-⠀⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢽⡀
-⢀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+```
+███╗   ██╗ █████╗ ██████╗  ██╗██╗  ██╗ ██████╗  ██████╗ 
+████╗  ██║██╔══██╗██╔══██╗███║██║  ██║██╔═████╗██╔════╝ 
+██╔██╗ ██║███████║██║  ██║╚██║███████║██║██╔██║███████╗ 
+██║╚██╗██║██╔══██║██║  ██║ ██║╚════██║████╔╝██║██╔═══██╗
+██║ ╚████║██║  ██║██████╔╝ ██║     ██║╚██████╔╝╚██████╔╝
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝  ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ 
 ```
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=%24+whoami+%E2%86%92+Nguy%E1%BB%85n+Anh+D%C5%A9ng;%24+status+%E2%86%92+unemployed+(but+vibing);%24+goal+%E2%86%92+Vua+Vibe-Coding;%24+also+%E2%86%92+dev+bi%E1%BA%BFt+trade" alt="typing" />
 
-### `>_ vibe_and_tech_stack.sh`
-
-<div align="left">
-  <!-- AI & VIBE-CODING -->
-  <img src="https://img.shields.io/badge/Vibe_Coding-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI_Free-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <!-- WEB & APP DEV -->
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_/_Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- TRADING & OFF-DUTY -->
-  <img src="https://img.shields.io/badge/TradingView-000000?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Binance_100x-000000?style=for-the-badge&logo=binance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Valorant-000000?style=for-the-badge&logo=valorant&logoColor=white" />
 </div>
 
-<br/>
+<br>
 
-### `>_ system_metrics.stat`
+```text
+┌──────────────────────────────────────────────────────────┐
+│  nad1406@danang:~$ cat profile.txt                       │
+├──────────────────────────────────────────────────────────┤
+│  name        Nguyễn Anh Dũng                             │
+│  born        14.06.2006  (20 y/o)                        │
+│  location    Đà Nẵng, Việt Nam                           │
+│  school      VN-UK Institute, Da Nang University         │
+│  major       Computer Science                            │
+│  track       Software Engineering  (year 3)              │
+│  job         student · unemployed                        │
+│  mail        oneone2683@gmail.com                        │
+└──────────────────────────────────────────────────────────┘
+```
+
+```text
+nad1406@danang:~$ ./now.sh
+
+  [>] learning   web / app development
+  [>] practicing vibe-coding (architecture × AI tools)
+  [>] building   a brain that can code AND read charts
+```
+
+```text
+nad1406@danang:~$ ./roadmap.sh
+
+  Software Architecture  [██░░░░░░░░░░░░░░░░░░]  50%
+  AI-assisted Coding     [████░░░░░░░░░░░░░░░░]  70%
+  Web / App Dev          [██░░░░░░░░░░░░░░░░░░]  60%
+  Crypto / Forex         [████████░░░░░░░░░░░░]  40%
+  Risk Management        [████░░░░░░░░░░░░░░░░]  20%   <- TODO:ưu tiên vì tao cháy tài khoản
+
+  >>> TITLE UNLOCKED IN PROGRESS: "Vua Vibe-Coding" ........ 58%
+```
+
+```text
+nad1406@danang:~$ cat stack.txt
+
+  lang     JavaScript · TypeScript · Python
+  web      React · Next.js · Node.js · Tailwind
+  tools    Claude · Cursor · Copilot · Git
+  trade    TradingView · MT5 · Binance
+```
+
+```text
+nad1406@danang:~$ cat life.json
+
+{
+  "hobbies": [
+    "Valorant",
+    "trade đòn bẫy cao",
+    "ăn thịt chó"
+  ],
+  "valorant_rank": "clutch or kick",
+  "leverage":      "x100  (don't try this at home)",
+  "stop_loss":     null,
+  "sleep":         "undefined"
+}
+```
+
+<br>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nad1406&show_icons=true&bg_color=00000000&text_color=888888&icon_color=FFFFFF&title_color=FFFFFF&hide_border=true&hide_rank=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nad1406&layout=compact&bg_color=00000000&text_color=888888&title_color=FFFFFF&hide_border=true&langs_count=6" />
+
+```text
+╔════════════════════ S T A T S ════════════════════╗
+```
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nad1406&show_icons=true&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&hide_rank=false&rank_icon=github" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nad1406&layout=compact&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=6" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com?user=Nad1406&hide_border=true&background=0d1117&stroke=30363d&ring=c9d1d9&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nad1406&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nad1406&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&hide_border=true" alt="activity" />
+
+```text
+╚═══════════════════════════════════════════════════╝
+```
+
 </div>
 
-<br/>
+<br>
 
-<!-- ĐƯỜNG KẺ CHUYỂN ĐỘNG TỐI GIẢN -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+```text
+nad1406@danang:~$ cat quote.txt
+
+  "Code là kiến trúc. AI là cái búa. Chart là la bàn."
+  "Vibe-code cả ngày, cắt lỗ đúng giờ."
+
+                                   -- Nad1406, 2026
+```
 
 <div align="center">
-  <sub><code>[ EOF // PING ME: </code> <a href="mailto:oneone2683@gmail.com"><b>oneone2683@gmail.com</b></a> • <a href="https://github.com/Nad1406"><b>@Nad1406</b></a> <code> // DA NANG, VN ]</code></sub>
+
+```text
+ ┌─────────────────────────────────────────┐
+ │  oneone2683@gmail.com  ·  github/Nad1406 │
+ └─────────────────────────────────────────┘
+        ░░ made in Da Nang, with caffeine ░░
+```
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Nad1406.Nad1406&left_color=0d1117&right_color=30363d&left_text=visitors" alt="visitors" />
+
 </div>
