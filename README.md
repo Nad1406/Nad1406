@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%">
+
 <div align="center">
 
 <!-- HIỆU ỨNG GÕ CHỮ ĐỘNG (TYPING SVG) -->
@@ -39,21 +39,4 @@
   <img src="https://img.shields.io/badge/TradingView-000000?style=for-the-badge&logo=tradingview&logoColor=white" />
   <img src="https://img.shields.io/badge/Binance_100x-000000?style=for-the-badge&logo=binance&logoColor=white" />
   <img src="https://img.shields.io/badge/Valorant-000000?style=for-the-badge&logo=valorant&logoColor=white" />
-</div>
-
-
-### `>_ system_metrics.stat`
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nad1406&show_icons=true&bg_color=00000000&text_color=888888&icon_color=FFFFFF&title_color=FFFFFF&hide_border=true&hide_rank=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nad1406&layout=compact&bg_color=00000000&text_color=888888&title_color=FFFFFF&hide_border=true&langs_count=6" />
-</div>
-
-<br/>
-
-<!-- ĐƯỜNG KẺ CHUYỂN ĐỘNG TỐI GIẢN -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  <sub><code>[ EOF // PING ME: </code> <a href="mailto:oneone2683@gmail.com"><b>oneone2683@gmail.com</b></a> • <a href="https://github.com/Nad1406"><b>@Nad1406</b></a> <code> // DA NANG, VN ]</code></sub>
 </div>
