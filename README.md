@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/Crypto_Forex-F0B90B?style=for-the-badge&logo=binance&logoColor=F0B90B&labelColor=090D16" alt="Binance" />
   <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=FF4655&labelColor=090D16" alt="Valorant" />
 </p>
-<p align="center"><sub><i>"Kẻ chart max đòn bẩy ban ngày (từng)và bắn Valorant ban đêm."</i></sub></p>
+<p align="center"><sub><i>"Kẻ chart max đòn bẩy ban ngày (đã từng) và bắn Valorant ban đêm."</i></sub></p>
 </td>
 </tr>
 </table>
@@ -103,9 +103,11 @@ runtime_status
 │  ├─ Thằng biết Vibe-Coding
 │  └─ Thằng Dev biết trade Crypto & Forex
 └─ daily_routine
-   ├─ vibe_coding  [████░░░░░░] 40%
-   ├─ trading      [███░░░░░░░] 30%
-   └─ valorant     [███░░░░░░░] 30%
+   ├─ vibe_coding  [█░░░░░░░░░] 10%
+   ├─ trading      [█░░░░░░░░░] 10%
+   ├─ lo.          [██████░░░░] 60% 
+   └─ valorant     [██░░░░░░░░] 20%
+
 ```
 
 ---
