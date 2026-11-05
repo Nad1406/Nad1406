@@ -10,7 +10,7 @@
 
 ```text
 ⠀⠀⠀⣸⠋⠛⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠞⠋⢻⡀⠀⠀⠀
-⠀⠀⠀⡟⠂⠀⠀⠈⠳⠶⠖⠒⠒⠒⠒⠶⠋⠁⠀⠀⠘⡇⠀⠀⠀
+⠀⠀⠀⡟⠂⠀⠀⠈⠳⠶⠖⠒⠒⠒⠒⠶⠋⠁⠀⠀⠘⡇⠀⠀⠀ 
 ⠀⠀⢰⡇⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡄⠀⠀⢷⠀⠀⠀
 ⠀⠀⢸⡇⠀⠈⠳⢦⡀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⣾⠀⠀⠀
 ⠀⠀⣼⠗⠀⣴⣾⣟⣿⠓⠀⠀⠀⠀⠐⣿⣿⣳⣦⠀⠀⢹⡄⠀⠀
@@ -24,14 +24,14 @@
 ⠀⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢽⡀
 ⢀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
            .+------+
-         .' |    .'|      nad1406@vnuk-udn // Nguyễn Anh Dũng
-        +---+--+'  |      ──────────────────────────────────────────────────────────
-        |   |  |   |      [01] BIO      :: 14/06/2006 (v20.0) // Da Nang, Vietnam
-        |  ,+--+---+      [02] EDU      :: Y3 Computer Science (SE) @ VN-UK
-        |.'    | .'       [03] STATUS   :: Student & Unemployed (Full-Time Builder)
-        +------+'         [04] STACK    :: Web/App Dev & AI-Driven Vibe-Coding
-                          [05] AMBITION :: King of Vibe-Coding & Crypto/Forex Dev
-                          [06] HOBBIES  :: Valorant, Max-Leverage Trading & Thịt Chó
+oneone2683@gmail.com // Nguyễn Anh Dũng
+──────────────────────────────────────────────────────────
+[01] BIO      :: 14/06/2006 (v20.0) // Da Nang, Vietnam
+[02] EDU      :: Y3 Computer Science (SE) @ VN-UK
+[03] STATUS   :: Student & Unemployed (Full-Time Builder)
+[04] STACK    :: Web/App Dev & AI-Driven Vibe-Coding
+[05] AMBITION :: King of Vibe-Coding & Crypto/Forex Dev
+[06] HOBBIES  :: Valorant, Max-Leverage Trading & Thịt Chó
 ```
 
 <br/>
