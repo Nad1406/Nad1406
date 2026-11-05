@@ -91,6 +91,10 @@
 
 ### `📊 runtime_status`
 
+<table width="100%">
+<tr>
+<td width="48%" valign="top">
+
 ```text
 runtime_status
 ├─ developer   Nguyễn Anh Dũng · @Nad1406
@@ -107,8 +111,28 @@ runtime_status
    ├─ trading      [█░░░░░░░░░] 10%
    ├─ lo.          [██████░░░░] 60% 
    └─ valorant     [██░░░░░░░░] 20%
-
 ```
+
+</td>
+<td width="52%" valign="top">
+
+```diff
+@@ [BINANCE FUTURES // NAD1406 PERPETUAL POSITIONS] @@
+
++ LONG   VIBE/USDT   [Isolated 100x]   ROE: +4,206.9%
++ LONG   AI_AGENT    [Cross 125x]      ROE: +1,337.0%
+! HOLD   XAU/USD     [Max Leverage]    STATUS: Gồng lời
+- SHORT  MANUAL_CODE [Isolated 50x]    LIQUIDATED (0.00$)
+- SHORT  SLEEP_TIME  [Cross 100x]      MARGIN CALL
+
+# PORTFOLIO_HEALTH :: 99% AI Prompting / 1% Tự gõ phím
+# TRADING_RULE     :: Không cài SL, cháy thì đi ngủ
+```
+
+</td>
+</tr>
+</table>
+
 
 ---
 
