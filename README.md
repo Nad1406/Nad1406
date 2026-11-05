@@ -47,11 +47,11 @@
 + FOCUS    :: Web/App Development & Vibe-Coding
 + AI_STACK :: Antigravity (Main/Cheap) + Claude & Codex (Free)
 
-! GOAL_01  :: Trở thành "Thằng biết Vibe-Coding"
-! GOAL_02  :: Trở thành thằng Dev biết trade Crypto, Forex
+! GOAL_01  :: Giàu
+! GOAL_02  :: Dev biết trade Crypto, Forex
 
-- JOB      :: Sinh viên & Unemployed (Full-Time Builder)
-- HOBBIES  :: Chơi Valorant, Trade đòn bẩy cao & Ăn thịt chó
+- JOB      :: Unemployed
+- HOBBIES  :: Valorant, Trade max bẩy & Ăn thịt chó
 
 # CONTACT  :: oneone2683@gmail.com // Da Nang, Vietnam
 ```
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Claude_AI-Free_Plan-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=090D16" alt="Claude" /><br/>
   <img src="https://img.shields.io/badge/Codex-Free_Plan-10A37F?style=for-the-badge&logo=chatgpt&logoColor=white&labelColor=090D16" alt="Codex" />
 </p>
-<p align="center"><sub><i>"Tối ưu chi phí với Antigravity, kết hợp Claude & Codex bản Free vì đéo có tiền."</i></sub></p>
+<p align="center"><sub><i>"Antigravity, kết hợp Claude & Codex bản Free vì đéo có tiền."</i></sub></p>
 </td>
 <td width="50%" valign="top">
 <h4 align="center">📈 Dev Stack & Off-Duty</h4>
@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/Crypto_Forex-F0B90B?style=for-the-badge&logo=binance&logoColor=F0B90B&labelColor=090D16" alt="Binance" />
   <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=FF4655&labelColor=090D16" alt="Valorant" />
 </p>
-<p align="center"><sub><i>"Kẻ chart max đòn bẩy ban ngày (đã từng) và bắn Valorant ban đêm."</i></sub></p>
+<p align="center"><sub><i>"Vào lệnh max đòn bẩy."</i></sub></p>
 </td>
 </tr>
 </table>
