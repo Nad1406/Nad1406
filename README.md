@@ -2,7 +2,7 @@
 
 <!-- HIỆU ỨNG GÕ CHỮ ĐỘNG (TYPING SVG) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=680&lines=%3E_+init_system(%22Nad1406+%2F%2F+Nguyen+Anh+Dung%22);%3E_+Future_King_of_Vibe-Coding...;%3E_+Software_Architecture_x_AI_Mastery;%3E_+Dev_by_Day_%7C_High-Leverage_Trader_by_Night" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=680&lines=%3E_+init_system(%22Nad1406+%2F%2F+Nguyen+Anh+Dung%22);%3E_+Future_King_of_Vibe-Coding...;%3E_+Software_Architecture_x_AI_Mastery;%3E_+Dev_by_Day_%7C_High-Leverage_Trader_by_Night" alt="Typing SVG" />
 </a>
 
 </div>
