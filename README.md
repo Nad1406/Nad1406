@@ -41,21 +41,6 @@
   <img src="https://img.shields.io/badge/Valorant-000000?style=for-the-badge&logo=valorant&logoColor=white" />
 </div>
 
-<br/>
-
-### `>_ roadmap_to_the_throne.log`
-
-```text
-  ░▒▓█ V I B E - C O D I N G   P R O T O C O L █▓▒░
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │ >_ [████████████████░░░░] 80% :: Software Architecture Fundamentals    │
-  │ >_ [██████████████████░░] 90% :: AI Prompting & Agentic Workflows      │
-  │ >_ [████████████░░░░░░░░] 60% :: Web & Cross-Platform App Development  │
-  │ >_ [██████████░░░░░░░░░░] 50% :: Algorithmic Crypto / Forex Trading    │
-  └────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
 
 ### `>_ system_metrics.stat`
 
