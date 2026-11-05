@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Nad1406 Banner">
+<img src="./header.svg" width="100%">
 <div align="center">
 
 <!-- HIỆU ỨNG GÕ CHỮ ĐỘNG (TYPING SVG) -->
