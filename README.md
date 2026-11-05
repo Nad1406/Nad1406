@@ -1,28 +1,3 @@
-![banner](https://github.com/user-attachments/assets/e6360b52-db2b-48fb-92f7-5a2fc241368d)![<svg viewBox="0 0 800 150" width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg { fill: #080808; rx: 8px; stroke: #262626; stroke-width: 1px; }
-    .title { font-family: 'Courier New', monospace; fill: #ffffff; font-size: 24px; font-weight: bold; letter-spacing: 5px; }
-    .sub { font-family: 'Courier New', monospace; fill: #888888; font-size: 11px; letter-spacing: 2.5px; }
-    .tag { font-family: 'Courier New', monospace; fill: #444444; font-size: 10px; letter-spacing: 2px; }
-    .cursor { fill: #ffffff; animation: blink 1s step-end infinite; }
-    .scanline { stroke: #ffffff; stroke-opacity: 0.05; stroke-width: 2; animation: scan 3.5s linear infinite; }
-    @keyframes blink { 50% { opacity: 0; } }
-    @keyframes scan { 0% { transform: translateY(0); } 100% { transform: translateY(150px); } }
-  </style>
-  
-  <rect width="100%" height="100%" class="bg" />
-  <line x1="0" y1="0" x2="800" y2="0" class="scanline" />
-  
-  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" class="title">
-    NAD1406 // NGUYỄN ANH DŨNG<tspan class="cursor">_</tspan>
-  </text>
-  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" class="sub">
-    [ FUTURE KING OF VIBE-CODING • SOFTWARE ARCHITECTURE • CRYPTO/FOREX ]
-  </text>
-  <text x="50%" y="84%" dominant-baseline="middle" text-anchor="middle" class="tag">
-    CS-SE @ VN-UK DA NANG // STATUS: UNEMPLOYED & FULL-LEVERAGE
-  </text>
-</svg>Uploading banner.svg…]()
 
 <div align="center">
 
