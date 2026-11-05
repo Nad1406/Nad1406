@@ -27,8 +27,8 @@
 <div align="left">
   <!-- AI & VIBE-CODING -->
   <img src="https://img.shields.io/badge/Vibe_Coding-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI_Free-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <!-- WEB & APP DEV -->
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React_/_Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
