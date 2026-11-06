@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./header.svg" alt="NAD1406 Header" width="100%">
+</div>
+<div align="center">
 
 <a href="https://github.com/Nad1406">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=40&lines=%3E_+nad1406.init+Nguyen+Anh+Dung;%3E_+aspiring+vibe-coder+%2F%2F+software+engineering;%3E_+building+apps+by+day+%7C+100x+leverage+by+night" alt="Typing SVG" />
