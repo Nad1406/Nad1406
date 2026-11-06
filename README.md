@@ -17,7 +17,7 @@
 
 ---
 
-### `⚡ whoami --color=auto`
+### `⚡ WhoAmI`
 
 <table width="100%">
 <tr>
@@ -63,7 +63,7 @@
 </tr>
 </table>
 
-### `🎛️ system_architecture.bento`
+### `🎛️ system_architecture`
 
 <table width="100%">
 <tr>
