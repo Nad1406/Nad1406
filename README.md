@@ -104,8 +104,8 @@ runtime_status
 │  ├─ primary    Antigravity (cheap, most used)
 │  └─ secondary  Claude (Free) · Codex (Free)
 ├─ ambitions
-│  ├─ Thằng biết Vibe-Coding
-│  └─ Thằng Dev biết trade Crypto & Forex
+│  ├─ Vibe-Coding
+│  └─ Trade Crypto & Forex
 └─ daily_routine
    ├─ vibe_coding  [█░░░░░░░░░] 10%
    ├─ trading      [█░░░░░░░░░] 10%
